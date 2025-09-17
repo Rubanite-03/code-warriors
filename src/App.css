@@ -1,0 +1,9 @@
+*{
+  padding: 0;
+  margin: 0;
+  
+}
+body{
+  background: rgb(103,58,180);
+  background: linear-gradient(90deg, rgb(4, 247, 146) 0%, rgb(6, 233, 82) 54%, rgb(4, 247, 146) 100%);
+}
